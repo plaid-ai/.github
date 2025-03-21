@@ -65,5 +65,6 @@
 ## 📬 Contact
 
 - **Email**: support@plaidai.io
+- **KakaoTalk**: [https://pf.kakao.com/_xfuxbnn](https://pf.kakao.com/_xfuxbnn)
 - **Instagram**: [@plaidai](https://instagram.com/plaidai)  
 - **Website**: [https://plaidai.io](https://plaidai.io)
