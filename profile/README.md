@@ -48,5 +48,5 @@ Accelerate Your Growth with AI, PLAID는 AI 기반 B2B 솔루션으로 기업의
 
 - **Email**: support@plaidai.io
 - **KakaoTalk**: [https://pf.kakao.com/_xfuxbnn](https://pf.kakao.com/_xfuxbnn)
-- **Instagram**: [@plaidai](https://instagram.com/plaid.ai_)  
+- **Instagram**: [@plaid.ai_](https://instagram.com/plaid.ai_)  
 - **Website**: [https://plaidai.io](https://plaidai.io)
