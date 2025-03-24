@@ -22,7 +22,7 @@ Accelerate Your Growth with AI, PLAID는 AI 기반 B2B 솔루션으로 기업의
 | **SNS 마케팅 콘텐츠 자동 생성** | 콘텐츠 제작 속도 30~50% 향상, 2주 내 팔로워 300명↑ |
 | **고객 대응 챗봇** | 고객 대응 업무 처리량 50% 감소 |
 | **Pretotyping 가설 검증 도구** | 비즈니스 아이디어 빠른 검증 가능 |
-<br>[👉 무료 툴 이용해보기](https://your-tool-link.com) 
+<br>[👉 무료 툴 이용해보기](https://pretotyping.plaidai.io) 
 
 ---
 
