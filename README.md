@@ -38,7 +38,7 @@ Accelerate Your Growth with AI, PLAID는 AI 기반 B2B 솔루션으로 기업의
 
 | 조태완 [@taewan-cho](https://github.com/taewan2002) | 안재현 [@jaehyun-ahn](https://github.com/Ohjackson) | 서지호 [@jiho-seo](https://github.com/swiftsjh02) |
 |:--:|:--:|:--:|
-| <img width="250" src="https://github.com/user-attachments/assets/ff679390-cff7-42eb-aede-7b5aa23fd2ea"> <br> **Technoking (CEO)** <br> M.S. in School of Computing (AI Major), Gachon Univ, 前 도슨트 CTO | <img width="250" src="https://github.com/user-attachments/assets/f90b4526-d1fe-4586-a1d7-0d7a801f9287"> <br> **Forward Deployed AI Engineer** <br> Gachon Univ, School of Computing (AI Major), SOPT 35기 | <img width="250" src="https://github.com/user-attachments/assets/493c3a87-af3b-4ea7-aa00-069b4c3df02e/IMG_4453.jpg"> <br> **Product Developer** <br> Gachon Univ, School of Computing (AI Major) |
+| <img width="250" src="https://github.com/user-attachments/assets/ff679390-cff7-42eb-aede-7b5aa23fd2ea"> <br> **Technoking (CEO)** <br> M.S. in School of Computing (AI Major), Gachon Univ, 前 도슨트 CTO | <img width="250" src="https://github.com/user-attachments/assets/f90b4526-d1fe-4586-a1d7-0d7a801f9287"> <br> **Forward Deployed AI Engineer** <br> Gachon Univ, School of Computing (AI Major), SOPT 35기 | <img width="250" src="https://github.com/user-attachments/assets/493c3a87-af3b-4ea7-aa00-069b4c3df02e/IMG_4453.jpg"> <br> **Product Developer** <br> Gachon Univ, School of Computing (AI Major) | <img width="250" src="https://github.com/user-attachments/assets/add4a263-f613-4200-96f5-94b54d359b01"> 
 
 > 함께 고민하고 성장하는, 기술과 전략이 만나는 팀입니다.
 
