@@ -1,52 +1,69 @@
-## 🏢 About PLAID
+# 🚀 PLAID | 플래드
 
-Accelerate Your Growth with AI, PLAID는 AI 기반 B2B 솔루션으로 기업의 문제를 빠르게 해결하고, 운영 효율을 극대화하는 생산성 향상 서비스를 제작합니다.
+> 대표님이 핵심 업무에만 집중하도록, 회사의 모든 반복 업무를 자동화합니다.
 
----
+<br>
 
-## 🧠 핵심 가치 (Core Values)
+## 🎯 About Us
 
-| Speed | Innovation | Efficiency | Growth Partner |
-|:-----:|:----------:|:----------:|:--------------:|
-| 빠른 성과 창출 | AI 기반의 압도적인 경쟁력 | 운영의 완전한 자동화 | 고객 맞춤형 전략 설계 |
+플래드는 성장의 변곡점에서 반복적인 수작업과 파편화된 프로세스로 인해 어려움을 겪는 기업을 위한 기술 파트너입니다. 우리는 단순 외주 개발사를 넘어, 고객의 비즈니스 운영체제(OS)를 진단하고 AI 기술로 자동화하여, 기업이 가장 중요한 핵심 업무에만 집중하도록 돕습니다.
 
 ---
 
-## 🚀 주요 도입 사례 (Case Studies)
+## ✨ Our Solutions in Action
 
-| 고객 사례 | 개선 효과 |
-|-----------|-----------|
-| **커머스 상품 비교 솔루션** | 수작업 → 자동 비교표 + 큐레이션 생성, 효율 3배↑ |
-| **상품 발주 양식 자동 변환** | 3~4시간 → 20분으로 단축 |
-| **상품 마이그레이션 자동화** | 수동 복사 → AI 기반 자동화, 속도 5배 향상 |
-| **SNS 마케팅 콘텐츠 자동 생성** | 콘텐츠 제작 속도 30~50% 향상, 2주 내 팔로워 300명↑ |
-| **고객 대응 챗봇** | 고객 대응 업무 처리량 50% 감소 |
-| **Pretotyping 가설 검증 도구** | 비즈니스 아이디어 빠른 검증 가능 |
-<br>[👉 무료 툴 이용해보기](https://your-tool-link.com) 
+우리는 추상적인 '생산성 향상'이 아닌, 측정 가능한 '업무 혁신'을 만듭니다.
+
+| 문제 유형 (Pain Point) | 해결책 (PLAID's Solution) | 핵심 성과 (Result) |
+|:---|:---|:---|
+| **반복적인 데이터 비교/입력** | 커머스 상품 비교 및 발주 양식 자동화 | `수작업 4시간 → 자동화 20분` |
+| **비효율적인 마케팅 콘텐츠 제작** | SNS 타겟 콘텐츠 자동 생성 및 배포 | `콘텐츠 제작 시간 50% 단축` |
+| **한계에 부딪힌 고객 응대** | 브랜드 페르소나 기반 AI 챗봇 도입 | `단순 문의 응대율 50% 자동화` |
+| **리스크 높은 신사업 아이디어** | Pretotyping 기반 가설 검증 도구 제작 | `최소 비용으로 시장 수요 예측` |
 
 ---
 
-## 🔨 일하는 방식
+## 🩺 우리가 일하는 방식: The Doctor's Diagnosis
 
-- **문제 중심 접근**: 고객 Pain Point를 기준으로 기능을 정의합니다.
-- **정확 중심 속도**: 빠르되 QA 및 피드백을 철저히 반영합니다.
-- **지속 가능한 구조**: 유지보수 용이성과 재사용성 높은 컴포넌트 기반 개발을 지향합니다.
+우리는 '기능'을 파는 것이 아니라, '성공'을 처방합니다.
+
+1.  **진단 (Consult & Define)**
+    고객의 업무 프로세스 전체를 분석하여 비효율의 근본 원인을 찾아내고, 해결해야 할 문제를 명확히 정의합니다.
+
+2.  **처방 (Build & Automate)**
+    진단 결과를 바탕으로, 가장 효과적인 맞춤형 자동화 시스템을 설계하고 구축하여 즉각적인 효율 개선을 만듭니다.
+
+3.  **파트너십 (Partner & Grow)**
+    일회성 구축을 넘어, 데이터 기반의 성과를 분석하고 비즈니스 성장에 맞춰 시스템을 함께 진화시키는 지속 가능한 파트너가 됩니다.
 
 ---
 
 ## 👨‍💻 Team PLAID
 
-| 조태완 [@taewan-cho](https://github.com/taewan2002) | 안재현 [@jaehyun-ahn](https://github.com/Ohjackson) | 서지호 [@jiho-seo](https://github.com/swiftsjh02) |
-|:--:|:--:|:--:|
-| <img width="250" src="https://github.com/user-attachments/assets/ff679390-cff7-42eb-aede-7b5aa23fd2ea"> <br> **Technoking (CEO)** <br> M.S. in School of Computing (AI Major), Gachon Univ, 前 도슨트 CTO |<br><img width="250" src="https://github.com/user-attachments/assets/f90b4526-d1fe-4586-a1d7-0d7a801f9287"></br> **Forward Deployed AI Engineer** <br> Gachon Univ, School of Computing (AI Major), SOPT 35기 |  <br> <img width ="250" src = "https://github.com/user-attachments/assets/cf992c2a-b515-479c-8f11-65e32a8c8686"> </br> **Product Developer** <br> Gachon Univ, School of Computing (AI Major) | 
-> 함께 고민하고 성장하는, 기술과 전략이 만나는 팀입니다.
+기술과 비즈니스 전략의 교차점에서, 우리는 함께 고민하고 가장 빠른 성장을 만듭니다.
 
+| Role | Name & GitHub | Expertise |
+|:--- |:--- |:--- |
+| **CEO / Technoking** | 조태완 [@taewan2002](https://github.com/taewan2002) | Business Strategy, AI-driven Product Mgt. |
+| **AI Engineer** | 안재현 [@Ohjackson](https://github.com/Ohjackson) | AI Modeling, Automation Logic |
+| **DevOps Developer** | 서지호 [@swiftsjh02](https://github.com/swiftsjh02) | Backend Architecture, Cloud Infra |
+| **Product Developer** | 김충영 [@chungyo](https://github.com/chungyo) | Frontend, User Interface |
+| **Product Developer** | 노현지 [@hyeonjiroh](https://github.com/hyeonjiroh) | Frontend, User Experience |
 
 ---
 
-## 📬 Contact
+## 🧭 Our 7 Core Areas
 
-- **Email**: support@plaidai.io
-- **KakaoTalk**: [https://pf.kakao.com/_xfuxbnn](https://pf.kakao.com/_xfuxbnn)
-- **Instagram**: [@plaidai](https://instagram.com/plaidai)  
-- **Website**: [https://plaidai.io](https://plaidai.io)
+플래드의 모든 활동은 7개의 핵심 영역으로 정의되어, 우리가 어디에 집중하고 있는지 데이터 기반으로 관리합니다.
+
+`Client Projects` `Business Development` `Branding & Marketing` `Product Development` `R&D` `Operation` `HR Management`
+
+---
+
+## 📬 Contact Us
+
+복잡한 프로세스가 당신의 성장을 가로막고 있나요?
+
+-   **Email:** technoking@plaid.ai.kr
+-   **KakaoTalk:** [채널 바로가기](https://pf.kakao.com/_xfuxbnn)
+-   **Website:** [https://plaid.ai.kr](https://plaid.ai.kr)
