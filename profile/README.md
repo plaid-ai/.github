@@ -1,6 +1,7 @@
 # 🚀 PLAID | 플래드
 
-<img width="3749" height="1081" alt="Banner" src="https://github.com/user-attachments/assets/21e3a81c-897b-479f-b324-f7cc9209ba77" />
+<img width="895" height="194" alt="Group 1321319305" src="https://github.com/user-attachments/assets/d316361a-30fd-48f8-8f4d-c860123ca7f1" />
+
 
 
 > 대표님이 핵심 업무에만 집중하도록, 회사의 모든 반복 업무를 자동화합니다.
