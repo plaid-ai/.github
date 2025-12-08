@@ -54,10 +54,11 @@
 | Role | Name & GitHub | Expertise |
 |:--- |:--- |:--- |
 | **CEO / Technoking** | 조태완 [@taewan2002](https://github.com/taewan2002) | Business Strategy, AI-driven Product Mgt. |
-| **AI Engineer** | 안재현 [@Ohjackson](https://github.com/Ohjackson) | AI Modeling, Automation Logic |
+| **AI Engineer** | 이상민 [@xangmln](https://github.com/xangmln) | AI Modeling, Automation Logic |
 | **DevOps Developer** | 서지호 [@swiftsjh02](https://github.com/swiftsjh02) | Backend Architecture, Cloud Infra |
 | **Product Developer** | 김충영 [@chungyo](https://github.com/chungyo) | Frontend, User Interface |
-| **Product Developer** | 노현지 [@hyeonjiroh](https://github.com/hyeonjiroh) | Frontend, User Experience |
+| **Product Developer** | 정희연 [@heeyyeon](https://github.com/heeyyeon) | Frontend, User Experience |
+| **Designer** | 최은정 | Designer 
 
 ---
 
