@@ -3,8 +3,7 @@
 <br>
 
 <br>
-
-<img width="895" height="194" alt="Group 1321319305" src="https://github.com/user-attachments/assets/d316361a-30fd-48f8-8f4d-c860123ca7f1" />
+<img width="4710" height="1215" alt="plaidlabs_black" src="https://github.com/user-attachments/assets/f4187c30-71e8-4d59-8f55-da972f04cfa2" />
 <br>
 <br>
 
