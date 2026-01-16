@@ -75,9 +75,9 @@
 (패키지별 문서/예제는 각 레포에서 확인할 수 있어요.)
 
 
-| Package | What it does | NPM | Downloads | Repo |
+| Package | What it does | NPM | Downloads | Storybook |
 |---|---|---|---|---|
-| **`@plaidlabs/ui`** | PLAID-DSY-디자인시스템 | [![npm](https://img.shields.io/npm/v/@plaidlabs/ui?logo=npm)](https://www.npmjs.com/package/@plaidlabs/ui) | ![downloads](https://img.shields.io/npm/dm/@plaidlabs/ui) 
+| **`@plaidlabs/ui`** | PLAID-DSY-디자인시스템 | [![npm](https://img.shields.io/npm/v/@plaidlabs/ui?logo=npm)](https://www.npmjs.com/package/@plaidlabs/ui) | ![downloads](https://img.shields.io/npm/dm/@plaidlabs/ui) | ![LINK](https://dsy.plaid.ai.kr)
 
 <div align="left">
 
