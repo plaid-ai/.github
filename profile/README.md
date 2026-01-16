@@ -77,7 +77,7 @@
 
 | Package | What it does | NPM | Downloads | Repo |
 |---|---|---|---|---|
-| **`@<SCOPE>/<PACKAGE-1>`** | 워크플로우/자동화 유틸리티 (예: 스케줄링, 리트라이, 큐) | [![npm](https://img.shields.io/npm/v/@plaidlabs/ui?logo=npm)](https://www.npmjs.com/package/@plaidlabs/ui) | ![downloads](https://img.shields.io/npm/dm/@plaidlabs/ui) 
+| **`@plaidlabs/ui`** | PLAID-DSY-디자인시스템 | [![npm](https://img.shields.io/npm/v/@plaidlabs/ui?logo=npm)](https://www.npmjs.com/package/@plaidlabs/ui) | ![downloads](https://img.shields.io/npm/dm/@plaidlabs/ui) 
 
 <div align="left">
 
