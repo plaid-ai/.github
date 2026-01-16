@@ -77,7 +77,7 @@
 
 | Package | What it does | NPM | Downloads | Storybook |
 |---|---|---|---|---|
-| **`@plaidlabs/ui`** | PLAID-DSY-디자인시스템 | [![npm](https://img.shields.io/npm/v/@plaidlabs/ui?logo=npm)](https://www.npmjs.com/package/@plaidlabs/ui) | ![downloads](https://img.shields.io/npm/dm/@plaidlabs/ui) | ![LINK](https://dsy.plaid.ai.kr)
+| **`@plaidlabs/ui`** | PLAID-DSY-디자인시스템 | [![npm](https://img.shields.io/npm/v/@plaidlabs/ui?logo=npm)](https://www.npmjs.com/package/@plaidlabs/ui) | ![downloads](https://img.shields.io/npm/dm/@plaidlabs/ui) | [LINK](https://dsy.plaid.ai.kr)
 
 <div align="left">
 
