@@ -69,6 +69,28 @@
 
 ---
 
+## 🌍 Open Source · NPM Packages
+
+플래드는 업무 자동화에 바로 재사용 가능한 **오픈소스 모듈**을 NPM로 배포합니다.  
+(패키지별 문서/예제는 각 레포에서 확인할 수 있어요.)
+
+
+| Package | What it does | NPM | Downloads | Repo |
+|---|---|---|---|---|
+| **`@<SCOPE>/<PACKAGE-1>`** | 워크플로우/자동화 유틸리티 (예: 스케줄링, 리트라이, 큐) | [![npm](https://img.shields.io/npm/v/@plaidlabs/ui?logo=npm)](https://www.npmjs.com/package/@plaidlabs/ui) | ![downloads](https://img.shields.io/npm/dm/@plaidlabs/ui) 
+
+<div align="left">
+
+<!-- 한 줄 배지(원하면 추가/삭제) -->
+![license](https://img.shields.io/badge/Open%20Source-%E2%9C%94-2ea44f)
+![issues](https://img.shields.io/badge/Contributions-Welcome-8250df)
+
+</div>
+
+📌 **Contribute**  
+버그 리포트/기능 제안/PR 모두 환영합니다. 각 레포의 `Issues` 또는 `Pull Request`로 참여해 주세요!
+
+
 ## 📬 Contact Us
 
 복잡한 프로세스가 당신의 성장을 가로막고 있나요?
