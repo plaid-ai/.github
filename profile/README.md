@@ -87,8 +87,6 @@
 
 </div>
 
-📌 **Contribute**  
-버그 리포트/기능 제안/PR 모두 환영합니다. 각 레포의 `Issues` 또는 `Pull Request`로 참여해 주세요!
 
 
 ## 📬 Contact Us
