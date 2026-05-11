@@ -74,7 +74,7 @@
 | **DevOps Developer** | 서지호 [@swiftsjh02](https://github.com/swiftsjh02) | Backend Architecture, Cloud Infra |
 | **Product Developer** | 김충영 [@chungyo](https://github.com/chungyo) | Frontend, User Interface |
 | **Product Developer** | 정희연 [@heeyyeon](https://github.com/heeyyeon) | Frontend, User Experience |
-| **Product Designer** | 최은정 [@jjung-0259](https://github.com/jjung-0259) | UX/UI Design | 
+| **Product Designer** | 최은정 [@jjung-0259](https://github.com/jjung-0259) | UX/UI Design, Design System | 
 
 ---
 
